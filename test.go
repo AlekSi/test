@@ -1,3 +1,3 @@
 package test
 
-const Version = "v1 branch"
+const Version = "v1.0.0"

@@ -1,3 +1,3 @@
 package test
 
-const Version = "v1 branch again"
+const Version = "back to master"
